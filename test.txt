@@ -1,4 +1,3 @@
-ilemozna
 <<<<<<< HEAD
 sdgakshfsdk
 =======
@@ -33,3 +32,4 @@ BLA BLA
 te¿ coœ mogê zmieniæ
 
 
+>>>>>>> origin/master
