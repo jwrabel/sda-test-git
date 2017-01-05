@@ -2,3 +2,4 @@ Test 1
 zmiana 
 zmiana
 test
+zmiana 2
