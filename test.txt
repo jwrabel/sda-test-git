@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+sdgakshfsdk
+=======
 asdqwe
 dzien dobry
 konflikt
@@ -10,6 +13,7 @@ psujemy!
 sdasdsadasdasasddsaasddasdas
 dasdasasddsaasddasdas
 sddsadas
+sdsadjasaskjdaslk
 dkfkmsd;lkf
 konflikt
 sdasdsadasdasasddsaasddasdas
@@ -25,6 +29,7 @@ sdasdsadasdasasddsaasddasdas
 dasdasasddsaasddasdas
 sddsadas
 BLA BLA
-te� co� mog� zmieni�
+te¿ coœ mogê zmieniæ
 
 
+>>>>>>> origin/master
