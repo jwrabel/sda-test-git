@@ -1,6 +1,11 @@
+<<<<<<< HEAD
 sda-test-git-iml
 .idea/misc.xml
 .idea/modules.xml
 .idea/vcs.xml
 .idea/workspace.xml
 sda-test-git.iml
+=======
+*.iml
+.idea
+>>>>>>> origin/master
