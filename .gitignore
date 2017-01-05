@@ -3,3 +3,6 @@ sda-test-git2.iml
 .idea/modules.xml
 .idea/vcs.xml
 .idea/workspace.xml
+
+*.iml
+.idea
